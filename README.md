@@ -8,8 +8,6 @@ description: >-
 
 ## Resources for **Learning**
 
-{% file src=".gitbook/assets/google11cb9f5c5eccce1e \(1\).html" %}
-
 * [BaseCS by Vaidehi Joshi](https://medium.com/basecs)
 * [Tushar Roy - Coding Made Simple](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 * [WilliamFiset](https://www.youtube.com/user/purpongie/featured)
