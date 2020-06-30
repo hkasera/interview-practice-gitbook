@@ -51,7 +51,15 @@ This algorithm helps find the shortest paths from a _**source vertex**_ to all o
 
 This algorithm helps find the shortest paths between between _**all pairs of vertices**_ in a weighted graph. This algorithm works for negative weighted edges but **not for negative cycles**.
 
+To learn more on how this algorithm works, check out the following resources :
 
+* 📽 [Floyd Warshall All Pairs Shortest Path Algorithm](https://www.youtube.com/watch?v=4NQ3HnhyNfQ)
+* 📝 [Floyd-Warshall Algorithm](https://brilliant.org/wiki/floyd-warshall-algorithm/)
+
+{% hint style="info" %}
+* The Floyd–Warshall algorithm is an example of **dynamic programming**.
+* A single execution of the algorithm will find the shortest paths between all pairs of vertices.
+{% endhint %}
 
 ## References
 
