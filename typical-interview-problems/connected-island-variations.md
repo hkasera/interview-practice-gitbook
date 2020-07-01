@@ -209,7 +209,7 @@ Queue itself takes O\(min\(M,N\)\) because in worst case where the grid is fille
 >
 > At the end, return the modified image.
 
-![Flood Fill problem : Matrix on left should be converted to Matrix on right.](../.gitbook/assets/screen-shot-2020-06-23-at-9.37.56-pm.png)
+![Flood Fill Problem Input Matrix to Output Matrix](../.gitbook/assets/screen-shot-2020-06-30-at-10.00.36-pm.png)
 
 In the above image, we performed a flood-fill from blue -&gt; pink. So, all blue cells adjacent to each other horizontally or vertically got converted into pink.
 
