@@ -19,7 +19,7 @@ Before, we dive further, let's briefly revise following two topics
 
 A matrix is a two-dimensional data object made of m rows and n columns, therefore having total m x n values.
 
-![Matrix Representation \(The table on right is showing non zero values\)](../.gitbook/assets/matrix.png)
+![Matrix Representation \(The table on right lists non zero values in matrix\)](../.gitbook/assets/matrix.png)
 
 #### Adjacent neighbors of an element in matrix.
 
