@@ -73,7 +73,7 @@ In order to apply this here, we need to define what a node is in this context, h
 
 The intuition is that each element with a value of '1' in the 2d  matrix is a node and the matrix itself represents an undirected graph. There is an edge between two horizontally or vertically adjacent neighbor nodes of value '1'.  
 
-![](../.gitbook/assets/matrix%20%283%29.png)
+![Matrix represented as graph](../.gitbook/assets/matrix%20%283%29.png)
 
 In this above image, we represented a 2x3 matrix filled with 1s and 0s as a graph. This graph has 4 nodes because there were 4 cells with 1s in the matrix. When we add an edge between horizontally or vertically adjacent neighbor nodes of value '1', then we can see that there are 2 connected components in this graph. 
 
