@@ -5,6 +5,7 @@
 ## Typical Interview Problems
 
 * [Two Sum Problem & Variations](typical-interview-problems/two-sum-variations.md)
+* [Kth largest elements in an array](typical-interview-problems/kth-largest-elements-in-an-array.md)
 * [Number of Islands & Variations](typical-interview-problems/connected-island-variations.md)
 
 ## Revise Data Structures
